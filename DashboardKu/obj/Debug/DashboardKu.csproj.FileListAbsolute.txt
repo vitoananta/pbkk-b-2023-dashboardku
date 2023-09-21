@@ -1,0 +1,29 @@
+D:\Kuliah\Semester 5\Pemrograman Berbasis Kerangka Kerja (B)\3 Windows Presentation Foundation (15-09-23)\DashboardKu\DashboardKu\bin\Debug\DashboardKu.exe.config
+D:\Kuliah\Semester 5\Pemrograman Berbasis Kerangka Kerja (B)\3 Windows Presentation Foundation (15-09-23)\DashboardKu\DashboardKu\bin\Debug\DashboardKu.exe
+D:\Kuliah\Semester 5\Pemrograman Berbasis Kerangka Kerja (B)\3 Windows Presentation Foundation (15-09-23)\DashboardKu\DashboardKu\bin\Debug\DashboardKu.pdb
+D:\Kuliah\Semester 5\Pemrograman Berbasis Kerangka Kerja (B)\3 Windows Presentation Foundation (15-09-23)\DashboardKu\DashboardKu\bin\Debug\FontAwesome.Sharp.dll
+D:\Kuliah\Semester 5\Pemrograman Berbasis Kerangka Kerja (B)\3 Windows Presentation Foundation (15-09-23)\DashboardKu\DashboardKu\obj\Debug\DashboardKu.csproj.AssemblyReference.cache
+D:\Kuliah\Semester 5\Pemrograman Berbasis Kerangka Kerja (B)\3 Windows Presentation Foundation (15-09-23)\DashboardKu\DashboardKu\obj\Debug\MainWindow.g.cs
+D:\Kuliah\Semester 5\Pemrograman Berbasis Kerangka Kerja (B)\3 Windows Presentation Foundation (15-09-23)\DashboardKu\DashboardKu\obj\Debug\App.g.cs
+D:\Kuliah\Semester 5\Pemrograman Berbasis Kerangka Kerja (B)\3 Windows Presentation Foundation (15-09-23)\DashboardKu\DashboardKu\obj\Debug\DashboardKu_MarkupCompile.cache
+D:\Kuliah\Semester 5\Pemrograman Berbasis Kerangka Kerja (B)\3 Windows Presentation Foundation (15-09-23)\DashboardKu\DashboardKu\obj\Debug\DashboardKu_MarkupCompile.lref
+D:\Kuliah\Semester 5\Pemrograman Berbasis Kerangka Kerja (B)\3 Windows Presentation Foundation (15-09-23)\DashboardKu\DashboardKu\obj\Debug\MainWindow.baml
+D:\Kuliah\Semester 5\Pemrograman Berbasis Kerangka Kerja (B)\3 Windows Presentation Foundation (15-09-23)\DashboardKu\DashboardKu\obj\Debug\DashboardKu.g.resources
+D:\Kuliah\Semester 5\Pemrograman Berbasis Kerangka Kerja (B)\3 Windows Presentation Foundation (15-09-23)\DashboardKu\DashboardKu\obj\Debug\DashboardKu.Properties.Resources.resources
+D:\Kuliah\Semester 5\Pemrograman Berbasis Kerangka Kerja (B)\3 Windows Presentation Foundation (15-09-23)\DashboardKu\DashboardKu\obj\Debug\DashboardKu.csproj.GenerateResource.cache
+D:\Kuliah\Semester 5\Pemrograman Berbasis Kerangka Kerja (B)\3 Windows Presentation Foundation (15-09-23)\DashboardKu\DashboardKu\obj\Debug\DashboardKu.csproj.CoreCompileInputs.cache
+D:\Kuliah\Semester 5\Pemrograman Berbasis Kerangka Kerja (B)\3 Windows Presentation Foundation (15-09-23)\DashboardKu\DashboardKu\obj\Debug\DashboardKu.csproj.CopyComplete
+D:\Kuliah\Semester 5\Pemrograman Berbasis Kerangka Kerja (B)\3 Windows Presentation Foundation (15-09-23)\DashboardKu\DashboardKu\obj\Debug\DashboardKu.exe
+D:\Kuliah\Semester 5\Pemrograman Berbasis Kerangka Kerja (B)\3 Windows Presentation Foundation (15-09-23)\DashboardKu\DashboardKu\obj\Debug\DashboardKu.pdb
+D:\Kuliah\Semester 5\Pemrograman Berbasis Kerangka Kerja (B)\3 Windows Presentation Foundation (15-09-23)\DashboardKu\DashboardKu\obj\Debug\App.baml
+D:\Kuliah\Semester 5\Pemrograman Berbasis Kerangka Kerja (B)\3 Windows Presentation Foundation (15-09-23)\DashboardKu\DashboardKu\obj\Debug\User Controls\InfoCard.baml
+D:\Kuliah\Semester 5\Pemrograman Berbasis Kerangka Kerja (B)\3 Windows Presentation Foundation (15-09-23)\DashboardKu\DashboardKu\obj\Debug\User Controls\InfoCard.g.cs
+D:\Kuliah\Semester 5\Pemrograman Berbasis Kerangka Kerja (B)\3 Windows Presentation Foundation (15-09-23)\DashboardKu\DashboardKu\obj\Debug\User Controls\Order.baml
+D:\Kuliah\Semester 5\Pemrograman Berbasis Kerangka Kerja (B)\3 Windows Presentation Foundation (15-09-23)\DashboardKu\DashboardKu\obj\Debug\User Controls\Order.g.cs
+D:\Kuliah\Semester 5\Pemrograman Berbasis Kerangka Kerja (B)\3 Windows Presentation Foundation (15-09-23)\DashboardKu\DashboardKu\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Kuliah\Semester 5\Pemrograman Berbasis Kerangka Kerja (B)\3 Windows Presentation Foundation (15-09-23)\DashboardKu\DashboardKu\bin\Debug\LiveCharts.dll
+D:\Kuliah\Semester 5\Pemrograman Berbasis Kerangka Kerja (B)\3 Windows Presentation Foundation (15-09-23)\DashboardKu\DashboardKu\bin\Debug\LiveCharts.Wpf.dll
+D:\Kuliah\Semester 5\Pemrograman Berbasis Kerangka Kerja (B)\3 Windows Presentation Foundation (15-09-23)\DashboardKu\DashboardKu\bin\Debug\LiveCharts.pdb
+D:\Kuliah\Semester 5\Pemrograman Berbasis Kerangka Kerja (B)\3 Windows Presentation Foundation (15-09-23)\DashboardKu\DashboardKu\bin\Debug\LiveCharts.xml
+D:\Kuliah\Semester 5\Pemrograman Berbasis Kerangka Kerja (B)\3 Windows Presentation Foundation (15-09-23)\DashboardKu\DashboardKu\bin\Debug\LiveCharts.Wpf.pdb
+D:\Kuliah\Semester 5\Pemrograman Berbasis Kerangka Kerja (B)\3 Windows Presentation Foundation (15-09-23)\DashboardKu\DashboardKu\bin\Debug\LiveCharts.Wpf.xml
